@@ -1,6 +1,106 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/immediatelyfast.json"
+hash = "cd7f530bd2d4479e4ee132fb75f0d3275c86cd1d06a8e512634c118a2d68b51a"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
+
+[[files]]
+file = "config/yosbr/config/borderlessmining.json"
+hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "c88ac7aec7bc08f867f8a9f6c7bf9396871d03d12b0f4d7100e8ef1fddfac68e"
+
+[[files]]
+file = "config/yosbr/config/cem.conf"
+hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
+
+[[files]]
+file = "config/yosbr/config/citresewn.json"
+hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
+
+[[files]]
+file = "config/yosbr/config/controlify.json"
+hash = "122efb712417e034281b2d1d431026569038f05d86fbf7df3b0f9b66e769d2e0"
+
+[[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "4cf30e65cc64f5df736a38740e30730aba2794643e73446a786cc15535a72f1c"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "eefa86fa9a8df6eda5d39d3bbbf53138a44df71a01a24262c27584badea97d79"
+
+[[files]]
+file = "config/yosbr/config/fastquit.toml"
+hash = "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d"
+
+[[files]]
+file = "config/yosbr/config/holdthatchunk.json"
+hash = "acc20d0a92edcf0497ebb62c7c673a8d9c99d872890bb53027722390f453e9dc"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
+
+[[files]]
+file = "config/yosbr/config/isxander-main-menu-credits.json"
+hash = "803ff4e47c28c30ff514ec5b3f35509f2e94f51ff649e882386b761235dbd06a"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
+
+[[files]]
+file = "config/yosbr/config/midnightcontrols.json"
+hash = "b792f2977c2889e388d0a0e83e316ed4f27050729d86c8623e8472accb8a2a46"
+
+[[files]]
+file = "config/yosbr/config/midnightlib.json"
+hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "e4b230e3eccc42c8b650eebb49945f4d9bde3746e5de2e969a89c18e8c4ef85f"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "250965108408ff2b4b0a8388eff286a5ebca573507b805dcbca8ea19841b86a2"
+
+[[files]]
+file = "config/yosbr/config/puzzle.json"
+hash = "41397f8ebb5a1137f559761cee66b18a85c7289e89ac84a738140d651eecccdd"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
+
+[[files]]
+file = "config/yosbr/config/tr7zwDonorSettings.json"
+hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "3e24ff68db7bf162a3e4777d388fea5c59595b28d66486aa03c4a51df5ecae51"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "bc152bd80888c6e54544a034c8d50d9b6e6672d4dd271f6a363153b21f9e5f3d"
 metafile = true
@@ -237,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e3dcb6e90d56978dbb9b17551f89f209e65254abe00747cf422eafc59eebff70"
+hash = "736bb573b96ab40f1afaa6e0353f03b509bc164285821fe8a16e99d9ccce8dbf"
 metafile = true
 
 [[files]]
@@ -254,3 +354,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "e13d84282eadfb56b43feca620ab4a133b36cd7d20161567817b9a1de8a2dc98"
 metafile = true
+
+[[files]]
+file = "resourcepacks/ClassicBackpackHide.zip"
+hash = "669b55a45d0beaaa01f73fa1a6fd11463427cb34df8f657fd7339aece76ba457"
