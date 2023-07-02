@@ -56,11 +56,6 @@ hash = "f7177d565bc9ad9f7b8bfcc58fbf4d63969723e22199fe6da0f6a996c76bf598"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
-metafile = true
-
-[[files]]
 file = "mods/dynamicfps.pw.toml"
 hash = "2f97c60c94970f11901d0cd28279d0e95e5122dbe954a86ec66c83e2e66e4f12"
 metafile = true
@@ -208,11 +203,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "72411e2d4b2e93a3b503838def9abf47abbc517304074be275295fe5eb422b75"
-metafile = true
-
-[[files]]
-file = "mods/nochatreports.pw.toml"
-hash = "5ce2f4ca8c22e9bd1def9f669d7ce1b4f61ed7fcbea57c8678f97239f8f8d94c"
 metafile = true
 
 [[files]]
