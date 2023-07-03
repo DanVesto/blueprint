@@ -1,12 +1,12 @@
 name = "Blueprint"
 author = "ArtificialDan"
-version = "0.0.3"
+version = "0.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a6b19f711eb62b56b2b575b96b5e980727c406ba5943daebbc938bc0e4d54c09"
+hash = "423bef4acaf08dbde84e11833a99e9d4327617cd937b1e9d0c1254043dee838c"
 
 [versions]
 fabric = "0.14.21"
