@@ -98,7 +98,7 @@ hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b811aac99ff9ee430f4cf693fe54b0010402c7540a2ada3c421b8788a4352f36"
+hash = "5678064798c8d2b93ae3ffd8054cc75c08663aee4e2aaa5dc1973588d258c02f"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -370,3 +370,8 @@ hash = "8425a5dd8099d76cc9a741b6245793db0fcf30a0589a819802caf81e9ea73a38"
 [[files]]
 file = "resourcepacks/SDVSounds.zip"
 hash = "2f824312c3cb5c42070f1d1319039a21689dc2a4ec660ad2294ae6725f66f2e2"
+
+[[files]]
+file = "resourcepacks/stardew-valley-music.pw.toml"
+hash = "1edf1162758bcb9bc5b52320ea332641e84219854cc63c0b9e36f8fd70463638"
+metafile = true

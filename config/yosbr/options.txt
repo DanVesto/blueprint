@@ -6,8 +6,8 @@ darkMojangStudiosBackground:true
 simulationDistance:6
 guiScale:3
 maxFps:260
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/Stardew+Valley+Music+in+Minecraft.zip","file/SDVSounds.zip","server","file/ClassicBackpackHide.zip","file/LaserMute.zip"]
-incompatibleResourcePacks:["server","file/ClassicBackpackHide.zip","file/Stardew+Valley+Music+in+Minecraft.zip","file/SDVSounds.zip","file/LaserMute.zip"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/Stardew Valley Music in Minecraft.zip","file/SDVSounds.zip","server","file/ClassicBackpackHide.zip","file/LaserMute.zip"]
+incompatibleResourcePacks:["server","file/ClassicBackpackHide.zip","file/Stardew Valley Music in Minecraft.zip","file/SDVSounds.zip","file/LaserMute.zip"]
 advancedItemTooltips:true
 tutorialStep:none
 skipMultiplayerWarning:true

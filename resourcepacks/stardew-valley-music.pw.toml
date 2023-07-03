@@ -1,0 +1,13 @@
+name = "Stardew Valley Music - Musical Minecraft"
+filename = "Stardew Valley Music in Minecraft.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3fd68b2c3d7990b7decdeba2354104a6f163d277"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2371298
+project-id = 253358
