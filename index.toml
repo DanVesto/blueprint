@@ -310,6 +310,11 @@ hash = "72411e2d4b2e93a3b503838def9abf47abbc517304074be275295fe5eb422b75"
 metafile = true
 
 [[files]]
+file = "mods/music-control.pw.toml"
+hash = "85b5df983be8c97bd5869eca4f3f2866d54d0d99abeafe3c49289fc582bcebfb"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "75a1ddf873abbb7428c45146ee8d8532396f54481b86d9eb845a396f68851257"
 metafile = true
