@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "65f98f76ce59b1891073efbd676aabd8b27437c699a5afaa040a6b7636cbf323"
+hash = "535fb383694dacfd688d13ebeafa0242a7f2a45b5adaf594255c9fe0cf52f5d1"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "2bfb7a58f9108673a37db53f95f9054e867f03fe7ff8f95c58496cc6bbe58d84"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
