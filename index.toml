@@ -280,8 +280,18 @@ hash = "21a2419f108b99b45613df390480778254e9c5cec614a667736d819232ef310e"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "ff1e17e5c0670835621e2dcc69e6d29908c928253fa43019bca2f69c983776e6"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "1acd996072e196d8bf814766bcbd074c726d8ed95d0be773ce2ce04ca2d60e95"
 metafile = true
 
 [[files]]
