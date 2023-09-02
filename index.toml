@@ -195,6 +195,11 @@ hash = "9d43225a578cd36fbaf754c73a8ba77d8583b1c34bdcb9fdd8199b6a807bdf94"
 metafile = true
 
 [[files]]
+file = "mods/essential.pw.toml"
+hash = "65f98f76ce59b1891073efbd676aabd8b27437c699a5afaa040a6b7636cbf323"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "c38b0e3cda97998e3c241cdb8c9e142d7286c7482d61e1eb88d3977b3f6f8557"
 metafile = true
@@ -347,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "736bb573b96ab40f1afaa6e0353f03b509bc164285821fe8a16e99d9ccce8dbf"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "2bfb7a58f9108673a37db53f95f9054e867f03fe7ff8f95c58496cc6bbe58d84"
 metafile = true
 
 [[files]]
